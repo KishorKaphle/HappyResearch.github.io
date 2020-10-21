@@ -1,3 +1,1 @@
-# kishorkaphle.github.io
-
-Can you read me even when I have no read me contents?
+# Let's march together for the betterment of human being!
