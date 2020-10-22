@@ -58,3 +58,10 @@ Monitoring of intruders, analyze highway traffic
 10. Fingerprint recognition and biometrics: 
 For automatic access authetication as well as forensic applications. 
 
+
+### 3.1 Point Operators:
+It is the simplest kinds of image processing transforms where each output pixel's value depends on only the corresponding input value(+ (maybe) some globally corrected parameters or information.
+
+
+
+
