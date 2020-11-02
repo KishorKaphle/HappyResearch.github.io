@@ -1,5 +1,79 @@
 ## Welcome to My Blog!
 
+## What is Publish-subscribe pattern?
+Basically, pub/sub is a software design pattern. pub/sub is a messaging pattern where senders of messages (publishers) do not explicitly sepecifies receivers (subscribers) but instead categorize publish messages into classes (without knowledge of subscribers). Likewise, subscribers express interest in one or more classes and only receive messages that are of interest (without knowledge of publishers). i.e loose coupling between subscribers and publishers. It is asynchronous communication method. 
+
+### Message filterning:
+Subscribers only receives a subset of publihsed messages and the process of selecting subsets is message filtering. Two types:
+1. Topic-based: Messages are published with topics
+2. Content-based: Subscribers receive only those message matching to interest of them
+
+Also, hybrid model can also be made by combining 1 and 2. 
+
+### Topologies:
+In pub/sub systems, publishers post messages to an intermediary message broker/event bus, and subscribers register subscriptions with that broker, letting the broker perform the filtering. The broker normally performs a store-and-forward function to route messages from pubs to subs. Further, broker may prioritize messages in a queue before routing.
+
+### Advantages:
+
+1. Loose coupling
+
+2. Scalability
+
+### Disadvantages:
+
+Message delivery issues
+
+### The observer pattern:
+1. A pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
+
+2. Can cause memory leaks due to strong references. It can be mitigated with weak reference. 
+
+
+### Rules for Publishing and Subscribing:
+
+1. Any node can publish a message to any topic
+2. Any node can subscribe to any topic
+3. Multiple nodes can publish to the same topic
+4. Multiple nodes can subscribe to the same topic
+5. A node can publish to multiple topics
+6. A node can subscribe to multiple topics
+
+### Command line tools for Pub/Sub using ROS:
+rosnode list: provides list of all nodes running
+
+rosnode info/some_node: provides info about some node
+
+rostopic list: provides list of all topic that are being sub or pub
+
+rostopic info/some_topic: provides info about nodes being sub and pub for topic
+
+rostopic echo/some_topic: print out the data that's being pub on that topic
+
+
+rostopic pub/some_topc msg/MessageType "data:value" : sends data on some topic
+
+
+### What is ROS master?
+A server that tracks the network addresses of all other nodes and also tracks other info like parameters
+
+It informs subscribers about nodes publishing on the same topic
+
+Publisher and subscriber establish a peer-to-peer connection. Nodes must know network address of master on startup (ROS_MASTER_URI).
+
+It can be started with roscore or roslaunch
+
+Master is not actually handling data being published. It is simply keep track of information like which nodes are out there and who's publishing what and what there IP addresses are. 
+ 
+
+
+(Learning Sources: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern,https://www.pubnub.com/learn/glossary/what-is-publish-subscribe/,https://www.youtube.com/watch?v=bJB9tv4ThV4,  )
+
+
+
+
+
+
+
 ### Readings with note-taking of Texts in Computer Science Compute Vision Algorithm and Applications by Richard Szeliski
 
 This book is basically an abstract of Prof. Szeliski's knowledge and experience gained over 20 years in corporate research labs, mainly at Digital Equipment Corporation's Cambridge Research Lab and at Microsoft Research. Therefore, this book is going to be more real-world problem focused than merely theories.
