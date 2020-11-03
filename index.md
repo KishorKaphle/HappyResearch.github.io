@@ -69,6 +69,17 @@ Master is not actually handling data being published. It is simply keep track of
 (Learning Sources: https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern,https://www.pubnub.com/learn/glossary/what-is-publish-subscribe/,https://www.youtube.com/watch?v=bJB9tv4ThV4,  )
 
 
+### What is a Build System?
+A build system is responsible for generating 'targets' from raw source code that can be used by an end user. These targets  may be in form of libraries, executable programs, generated scripts, exported interface (e.g C++ header files) or anything else that is not static code.
+
+
+
+### What is carkin?
+It is the official build system of ROS and the successor to the original ROS build system. It was designed to be more conventional than rosbuild, allowing for better distribution of packagges, better cross-compiling support, and better portability. 
+
+
+
+(Learning Source: http://wiki.ros.org/catkin/conceptual_overview)
 
 
 
