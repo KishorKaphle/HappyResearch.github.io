@@ -3,7 +3,7 @@
 ## What is Publish-subscribe pattern?
 Basically, pub/sub is a software design pattern. pub/sub is a messaging pattern where senders of messages (publishers) do not explicitly sepecifies receivers (subscribers) but instead categorize publish messages into classes (without knowledge of subscribers). Likewise, subscribers express interest in one or more classes and only receive messages that are of interest (without knowledge of publishers). i.e loose coupling between subscribers and publishers. It is asynchronous communication method. 
 
-### Message filterning:
+### Message filtering:
 Subscribers only receives a subset of publihsed messages and the process of selecting subsets is message filtering. Two types:
 1. Topic-based: Messages are published with topics
 2. Content-based: Subscribers receive only those message matching to interest of them
