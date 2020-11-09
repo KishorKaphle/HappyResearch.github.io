@@ -192,6 +192,37 @@ For automatic access authetication as well as forensic applications.
 ### 3.1 Point Operators:
 It is the simplest kinds of image processing transforms where each output pixel's value depends on only the corresponding input value(+ (maybe) some globally corrected parameters or information.
 
+### 5.2.4 Data preprocessing(Francois Chollet's Deep Learning with Python):
+Some commmon steps may be (for working in tensorflow):
+1. Read the picture files.
+2. Decode the JPEG content to RGB grids of pixels.
+3. Convert these into floating-point tensors.
+4. Rescale the pixel values (between 0 and 255) to the [0,1] interval (as you know, neural networks prefer to deal with small input values).
+
+While it may seem a bit daunting, however fortunately Keras has utilities to take care of these steps automatically present in keras.preprocessing.image module. 
+
+### Understanding Python generators:
+A Python generator is an object that acts as an iterator: it's an object you can use with the for...in operator. Generators are built using the yield operator. 
+
+Example:
+
+def generator():
+ i = 0
+ while True:
+  i+=1
+  yield i
+  
+for item in generator ():
+ print(item)
+ if item > 4:
+  break
+  
+It prints this:
+1
+2
+3
+4
+5
 
 
 
