@@ -34,7 +34,21 @@ In spite of being a great eater Mr. Microphage is not always able to eat up all 
 They are defensive WBC. They produce antibodies that attack the antigents left behind by the macrophages. Army Producer!
 
 3. T-lymphocytes:
-They attack cells in the body that have been already infected. 
+They attack cells in the body that have been already infected.
+
+### Dielectrophoretic Speration of Live and Dead Monocytes Using 3D Carbon-Electrodes:
+Body fluids like blood, urine, etc has been promising media for disease diagnosis. However, the better result from this diagnosis largely depends on the ability to seperate pure cell population from a mixutre of cell suspensions. 
+
+Better diagnosis involves:
+Step1: Sub population of blood needs to be seperated from whole population of blood.
+
+Step2: Live cells need to be purified from dead cells; otherwise, dead cells might introduce biases in the measurements.
+
+Additionally, the seperation and characterization methods being used must preserve the genetic and phenotypic properties of cells.
+
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713632/)
+
+
 
  
 
