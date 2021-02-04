@@ -7,11 +7,23 @@ Happy Research!
 ## Date Feb 3:
 Paper reading: Dielectrophoretic high-purity isolation of primary T-cells in samples contaminated with leukemia cells, for biomanufacturing of therapeutic CAR T-cells (https://doi.org/10.1088/1361-6463/abc2f3)
 
-### Dielectrophoresis:
+#### Dielectrophoresis:
 Phenomenon in which a force is exerted on a dielectric particle when it is subjected to a non-uniform electric field (https://en.wikipedia.org/wiki/Dielectrophoresis). They show dielectrophoresis irrespective of their charging state. 
-### Dielctric:
+#### Dielctric:
 Basically they are electric insulator that can be polarized by an applied electric field. ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Capacitor_schematic_with_dielectric.svg/220px-Capacitor_schematic_with_dielectric.svg.png). One of the main difference between an insulator and dielectric is that dielectrics has more tendency to be polarized in compared to that in normal insultors. Dielectrics has higher energy storing capacity. Eg. material in between capcitor plates. Related temrminalogy: displacement current which can be more explained by using Maxwell'e equations.
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Current_continuity_in_capacitor.svg/200px-Current_continuity_in_capacitor.svg.png) 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Current_continuity_in_capacitor.svg/200px-Current_continuity_in_capacitor.svg.png)
+
+#### Acute Lymphoblastic Leukemia (ALL):
+It is the second most common acute leukemia in adults, with an incidence of over 6500 cases per year in US alone. The hallmark of ALL is chromosomal abnormalities and genetic alterations involved in differentiation and proliferation of lymphoid precursor cells. 
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5520400/)
+
+### Abstract of the paper:
+CAR T-cell based treatment method for ALL is pretty good but contamination of T-cells derived from patients with existing cancer cells during manufacturing has adverse effect on the treatment and its efficacy. Importantly, the accidental transfection of cancer cells with CAR genes provides the cancer cells with immunity from CAR T-cells.
+
+Okay, interesting, isn't it? BUT how they gain immunity even with the presence of few cells?
+
+#### Understanding How Vaccines Work:
+
 
 
 
