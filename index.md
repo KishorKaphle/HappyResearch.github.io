@@ -23,8 +23,17 @@ CAR T-cell based treatment method for ALL is pretty good but contamination of T-
 Okay, interesting, isn't it? BUT how they gain immunity even with the presence of few cells?
 
 #### Understanding How Vaccines Work:
+Let's understand body's defense system. 
+Blood basically consist of RBC and WBC. RBC for oxygne transportation through out the body whereas WBC for fighting against infection or disease. We are more interested in WBC here so lets see three main constituents of WBC:
 
+1. Macrophages:
+It's a great eater! It shallow up & digest germs, plus dead or dying cells (it is important to manage waste, isn't it?)
+In spite of being a great eater Mr. Microphage is not always able to eat up all infection causing agents. Hence, for remaining harmful agents also called as antegents, the body identifies antigents as dangerous and stimulates antibodies to attack them.
 
+2. B-lymphocytes:
+They are defensive WBC. They produce antibodies that attack the antigents left behind by the macrophages. Army Producer!
 
+3. T-lymphocytes:
+They attack cells in the body that have been already infected. 
 
 
