@@ -17,6 +17,7 @@ Basically they are electric insulator that can be polarized by an applied electr
 It is the second most common acute leukemia in adults, with an incidence of over 6500 cases per year in US alone. The hallmark of ALL is chromosomal abnormalities and genetic alterations involved in differentiation and proliferation of lymphoid precursor cells. 
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5520400/)
 
+## Date Feb 4:
 ### Abstract of the paper:
 CAR T-cell based treatment method for ALL is pretty good but contamination of T-cells derived from patients with existing cancer cells during manufacturing has adverse effect on the treatment and its efficacy. Importantly, the accidental transfection of cancer cells with CAR genes provides the cancer cells with immunity from CAR T-cells.
 
@@ -47,6 +48,8 @@ Step2: Live cells need to be purified from dead cells; otherwise, dead cells mig
 Additionally, the seperation and characterization methods being used must preserve the genetic and phenotypic properties of cells.
 
 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713632/)
+
+## Date Feb 5:
 
 ### Nucleaotide Identification in DNA Using Dielectrophoresis Spectroscopy:
 
