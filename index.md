@@ -17,7 +17,7 @@ in group, can:
 This paper concludes that singing together can be useful tool for developing social intervention and mental wellbeing.
 ![image](https://user-images.githubusercontent.com/60503935/172506244-cf804525-c34f-4b7d-9e13-9c8ee1f14b87.png)
 
-Note: Image from internet
+Note: Image taken from internet
 
 
 
