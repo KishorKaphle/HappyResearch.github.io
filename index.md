@@ -15,7 +15,7 @@ in group, can:
 4. Increase self-confidence
 
 This paper concludes that singing together can be useful tool for developing social intervention and mental wellbeing.
-![Alt Text] (https://www.howcast.com/.image/t_share/MTU5NzA0MjU1ODY3NzI0ODIw/y-how-to-sing-the-more-we-get-together-promo-image.jpg)
+![Alt text] (https://th.bing.com/th/id/R.ef42224c37d7810d8e5d3868258047a9?rik=j%2fFd7O0rL7Wtmg&riu=http%3a%2f%2fprescottrealestate.guru%2fwp-content%2fuploads%2f2016%2f10%2fFamily-Sing.gif&ehk=diPtKN7dq697INJxEwtDwLxqjUnzp85QXxjxBCsOovY%3d&risl=&pid=ImgRaw&r=0)
 
 
 
