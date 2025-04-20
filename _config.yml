@@ -1,0 +1,16 @@
+title: My Tech Blog
+author: Your Name
+email: your@email.com
+description: >- 
+  A tech blog about simulations, programming, and engineering tools.
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+
+header_pages:
+  - index.md
+  - comsol.md
+  - about.md
+
+plugins:
+  - jekyll-feed
